@@ -26,29 +26,33 @@ A simple to-do list application built with React, featuring the ability to add n
 
    ```bash
    git clone https://github.com/your-username/react-todo-list.git
-Change into the project directory:
 
-bash
-cd react-todo-list
+2.Change into the project directory:
 
-Install dependencies:
-bash
-npm install
+    ```bash
+    cd react-todo-list
 
-Usage
+3. Install dependencies:
+
+    ```bash
+    npm install
+    ```
+
+# Usage
 
 Start the development server:
-bash
+```bash
 npm start
+```
 
 Open your browser and visit http://localhost:3000.
 
 Use the application to manage your to-do list.
 
-Contributing
+# Contributing
 Contributions are welcome! Feel free to open issues or submit pull requests.
 
-Fork the repository.
+## Fork the repository.
 Create a new branch: git checkout -b feature/my-feature.
 Commit your changes: git commit -m 'Add my feature'.
 Push to the branch: git push origin feature/my-feature.
