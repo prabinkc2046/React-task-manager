@@ -29,8 +29,7 @@ A simple to-do list application built with React, featuring the ability to add n
 
 2.Change into the project directory:
 
-    ```
-    bash
+    ```bash
     cd react-todo-list```
 
 3. Install dependencies:
